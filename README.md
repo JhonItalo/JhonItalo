@@ -6,7 +6,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jhonitalo&show_icons=true&locale=en&layout=compact" alt="jhonitalo" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jhonitalo&show_icons=true&locale=en" alt="jhonitalo" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=jhonitalo&show_icons=true&locale=en" alt="jhonitalo" /></p>
 
 
 
