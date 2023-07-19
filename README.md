@@ -1,6 +1,10 @@
 <h1 align="center">Desenvolvedor Full Stack</h1>
 
+<p  style="font-size: 25px;">
 Desenvolvedor Full Stack buscando alcançar um novo nível. Atento às mudanças e inovações que acompanham o ecossistema do javascript. Interessado em está sempre aplicando as melhores práticas, métricas e técnicas modernas, avançadas e otimizadas. Estudo é prioridade, frequentemente revisando conteúdo, buscando novos conhecimentos e observando tecnologias alternativas. 
+  
+</p>
+
 
 <h3 align="left">🛠 Language and tools</h3>
 
