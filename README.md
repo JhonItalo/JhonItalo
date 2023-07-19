@@ -1,8 +1,5 @@
 
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+John+Ítalo+Lucas+Lima;Sou+Desenvolvedor+Front+End;Welcome+to+My+Github)](https://git.io/typing-svg)
-
-<h3 align="center">Desenvolvedor Front End</h3>
+<h1 align="center">Desenvolvedor Front Full Stack</h3>
 <div>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jhonitalo&show_icons=true&locale=en&layout=compact" alt="jhonitalo" /></p>
 
