@@ -1,5 +1,7 @@
-
 <h1 align="center">Desenvolvedor Front Full Stack</h3>
+
+Desenvolvedor Front Full Stack buscando alcançar um novo nível. Atento às mudanças e inovações que acompanham o ecossistema do javascript. Interessado em está sempre aplicando as melhores práticas, métricas e técnicas modernas, avançadas e otimizadas. Estudo é prioridade, frequentemente revisando conteúdo, buscando novos conhecimentos e observando tecnologias alternativas. 
+
 <div>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jhonitalo&show_icons=true&locale=en&layout=compact" alt="jhonitalo" /></p>
 
