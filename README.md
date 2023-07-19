@@ -1,6 +1,6 @@
 <h1 align="center">Desenvolvedor Full Stack</h1>
 
-<p  style="font-size: 40px;">
+<p>
 Desenvolvedor Full Stack buscando alcançar um novo nível. Atento às mudanças e inovações que acompanham o ecossistema do javascript. Interessado em está sempre aplicando as melhores práticas, métricas e técnicas modernas, avançadas e otimizadas. Estudo é prioridade, frequentemente revisando conteúdo, buscando novos conhecimentos e observando tecnologias alternativas. 
   
 </p>
@@ -10,7 +10,7 @@ Desenvolvedor Full Stack buscando alcançar um novo nível. Atento às mudanças
 
 ###
 
-<div align="left"  style="background-color: white">
+<div align="left" background-color= "white">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
